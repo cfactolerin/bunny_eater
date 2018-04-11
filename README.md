@@ -81,18 +81,18 @@ BunnyEater.consume(opt)
 4. Configure the .env file correctly by supplying the configuration
 
 
-#####To Build:
+##### To Build:
 1. Run `rake build`. This should build the gem and store it under `pkg` folder.
 2. Test install by running `gem install pkg/bunny_eater-<version>.gem`
    
    Example: `gem install pkg/bunny_eater-0.1.0.gem`
    
-#####To Run:
+##### To Run:
 1. bunny_eater gem will install an executable called `bunny_eater` during gem installation.
    
    Run by executing `bunny_eater`
    
-#####To Uninstall:
+##### To Uninstall:
 1. Run `gem uninstall bunny_eater`
 
 ## License
