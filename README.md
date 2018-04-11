@@ -7,7 +7,7 @@ This Gem will retrieve data from a RabbitMQ Server and store the messages in Ama
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'bunny_eater',  :git => 'git@bitbucket.org:perx_technologies/bunny_eater.git', :branch => 'master'
+gem 'bunny_eater',  :git => 'git@github.com:cfactolerin/bunny_eater.git', :branch => 'master'
 ```
 
 And then execute:
